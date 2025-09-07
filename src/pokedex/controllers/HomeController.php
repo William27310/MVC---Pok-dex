@@ -1,16 +1,13 @@
 <?php
 
-class HomeController {
-    public function index() {
-        require_once __DIR__ . '/../models/PokemonModel.php';
+require_once __DIR__ . '/../models/PokemonModel.php';
+
+class HomeController
+{
+    public function index()
+    {
         $PokemonModel = new PokemonModel();
         $touslesPokemons = $PokemonModel->getAll();
-        require_once __DIR__ . '/../views/home.php'; 
-    }
-
-    public function show($id) {
-        require_once __DIR__ . '/../views/details.php';
+        require_once __DIR__ . '/../views/home.php';
     }
 }
-
-?>

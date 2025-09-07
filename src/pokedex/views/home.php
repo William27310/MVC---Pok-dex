@@ -19,7 +19,7 @@
 
     <nav class="navbar navbar-expand-lg bg-dark">
         <div class="container-fluid justify-content-around">
-            <a class="navbar-brand text-white fw-bold" href="?generation=1">Génération 1</a>
+            <a class="navbar-brand text-white fw-bold" href="home.php">Génération 1</a>
             <a class="navbar-brand text-white fw-bold" href="home.php">Génération 2</a>
             <a class="navbar-brand text-white fw-bold" href="home.php">Génération 3</a>
             <a class="navbar-brand text-white fw-bold" href="home.php">Génération 4</a>
@@ -33,7 +33,7 @@
     </div> -->
 
     <div class="container">
-    <div class="row justify-content-around gap-5 mt-5 mb-5">
+        <div class="row justify-content-around gap-5 mt-5 mb-5">
             <?php foreach ($touslesPokemons as $pokemon) { ?>
                 <div class="card text-white row" style="max-width: 18rem;">
                     <img src="<?= $pokemon['image'] ?>" class="card-img-top" alt="...">
@@ -41,12 +41,11 @@
                         <p class="card-text mt-5"><span class="fw-bold">ID : </span> <?= $pokemon['id'] ?></p>
                         <p class="card-text"><span class="fw-bold">Nom : </span><?= $pokemon['name'] ?></p>
                         <p class="card-text"><span class="fw-bold">Type : </span><?= implode(', ', $pokemon['type']) ?> </p>
-                        <p class="card-text"><span class="fw-bold">Description : </span><?= $pokemon['description'] ?></p>
-                        <p class="card-text"><span class="fw-bold">Génération : </span><?= $pokemon['generation'] ?></p>
+                        <button class="btn btn-outline-light"><span class="fw-bold"><a href="http://localhost:8000/index.php?url=details/<?php echo $pokemon['id']; ?>" class="text-decoration-none text-white">Détails</a></span></button>
                     </div>
                 </div>
             <?php } ?>
-    </div>
+        </div>
     </div>
 
 

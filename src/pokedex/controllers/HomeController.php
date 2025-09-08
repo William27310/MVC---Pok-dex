@@ -12,4 +12,11 @@ class HomeController
         $touslesPokemons = $PokemonModel->getAll();
         require_once __DIR__ . '/../views/home.php';
     }
+
+        public function genIndex($gen)
+    {
+        $PokemonModel = new PokemonModel();
+        $touslesPokemons = $PokemonModel->getByGeneration($gen);
+        require_once __DIR__ . '/../views/home.php';
+    }
 }

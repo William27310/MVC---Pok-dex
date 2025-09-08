@@ -52,21 +52,6 @@
         </form>
     </div> -->
 
-    <div class="container">
-        <div class="row justify-content-around gap-5 mt-5 mb-5">
-            <?php foreach ($touslesPokemons as $pokemon) { ?>
-                <div class="card text-white row" style="max-width: 18rem;">
-                    <img src="<?= $pokemon['image'] ?>" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <p class="card-text mt-5"><span class="fw-bold">Nom : </span><?= $pokemon['name'] ?></p>
-                        <p class="card-text"><span class="fw-bold">Type : </span><?= implode(', ', $pokemon['type']) ?> </p>
-                        <button class="btn btn-outline-light"><span class="fw-bold"><a href="index.php?url=details/<?= $pokemon['id']; ?>" class="text-decoration-none text-white">Détails</a></span></button>
-                    </div>
-                </div>
-            <?php } ?>
-        </div>
-    </div>
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </body>

@@ -31,4 +31,18 @@ class PokemonModel
             }
         }
     }
+
+    public function getByGeneration($gen)
+    {
+        $pokedex = file_get_contents(__DIR__ . '/../data/pokemons.json');
+        $allPokemon = json_decode($pokedex, true);
+        $result = [];
+
+        foreach ($allPokemon as $pokemons) {
+            if ($pokemons['generation'] == $gen) {
+                $result[] = $pokemons;
+            }
+        }
+        return $result;
+    }
 }

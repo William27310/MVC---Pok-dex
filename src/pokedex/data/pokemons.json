@@ -390,6 +390,3565 @@
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
     "description": "L’évolution de Mimitoss, plus agressif et dangereux.",
     "generation": 1
+  },
+  {
+    "id": 50,
+    "name": "Mimitoss",
+    "type": ["Insecte", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "description": "Un Pokémon insecte ailé, son dard est venimeux.",
+    "generation": 1
+  },
+  {
+    "id": 51,
+    "name": "Aéromite",
+    "type": ["Insecte", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "description": "L’évolution de Mimitoss, ses ailes sont plus grandes et il vole mieux.",
+    "generation": 1
+  },
+  {
+    "id": 52,
+    "name": "Taupiqueur",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "description": "Un petit Pokémon fouisseur qui creuse rapidement.",
+    "generation": 1
+  },
+  {
+    "id": 53,
+    "name": "Triopikeur",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "description": "Évolution de Taupiqueur, creuse encore plus vite et plus profondément.",
+    "generation": 1
+  },
+  {
+    "id": 54,
+    "name": "Miaouss",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "description": "Un chat rusé qui aime voler les objets brillants.",
+    "generation": 1
+  },
+  {
+    "id": 55,
+    "name": "Persian",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "description": "L’évolution élégante de Miaouss, très rapide et agile.",
+    "generation": 1
+  },
+  {
+    "id": 56,
+    "name": "Psykokwak",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "description": "Un canard toujours un peu confus, mais avec un bon potentiel.",
+    "generation": 1
+  },
+  {
+    "id": 57,
+    "name": "Akwakwak",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "description": "L’évolution de Psykokwak, célèbre pour sa puissance mentale.",
+    "generation": 1
+  },
+  {
+    "id": 58,
+    "name": "Férosinge",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "description": "Un singe très agressif et bagarreur.",
+    "generation": 1
+  },
+  {
+    "id": 59,
+    "name": "Colossinge",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "description": "Évolution de Férosinge, encore plus fort et rapide.",
+    "generation": 1
+  },
+  {
+    "id": 60,
+    "name": "Caninos",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "description": "Un petit chien avec une fourrure enflammée.",
+    "generation": 1
+  },
+  {
+    "id": 61,
+    "name": "Arcanin",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "description": "L’évolution majestueuse de Caninos, très rapide et puissant.",
+    "generation": 1
+  },
+  {
+    "id": 62,
+    "name": "Ptitard",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "description": "Un petit têtard qui grandira pour devenir un puissant Pokémon eau.",
+    "generation": 1
+  },
+  {
+    "id": 63,
+    "name": "Têtarte",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "description": "L’évolution de Ptitard, capable de sauter très loin.",
+    "generation": 1
+  },
+  {
+    "id": 64,
+    "name": "Tartard",
+    "type": ["Eau", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "description": "Un Pokémon puissant qui maîtrise l’eau et les arts martiaux.",
+    "generation": 1
+  },
+  {
+    "id": 65,
+    "name": "Abra",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "description": "Un Pokémon qui peut se téléporter pour éviter le danger.",
+    "generation": 1
+  },
+  {
+    "id": 66,
+    "name": "Kadabra",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "description": "L’évolution d’Abra, doté de pouvoirs psychiques puissants.",
+    "generation": 1
+  },
+  {
+    "id": 67,
+    "name": "Alakazam",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "description": "Un maître psychique avec une intelligence exceptionnelle.",
+    "generation": 1
+  },
+  {
+    "id": 68,
+    "name": "Machoc",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "description": "Un Pokémon très musclé, prêt à se battre.",
+    "generation": 1
+  },
+  {
+    "id": 69,
+    "name": "Machopeur",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "description": "Plus fort que Machoc, il est très combatif.",
+    "generation": 1
+  },
+  {
+    "id": 70,
+    "name": "Mackogneur",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "description": "Le dernier stade d’évolution, extrêmement puissant.",
+    "generation": 1
+  },
+  {
+    "id": 71,
+    "name": "Chétiflor",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "description": "Une petite plante carnivore, assez fragile au début.",
+    "generation": 1
+  },
+  {
+    "id": 72,
+    "name": "Boustiflor",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+    "description": "L’évolution de Chétiflor, ses dents sont plus grandes.",
+    "generation": 1
+  },
+  {
+    "id": 73,
+    "name": "Empiflor",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+    "description": "Une grosse plante carnivore qui avale tout ce qui bouge.",
+    "generation": 1
+  },
+  {
+    "id": 74,
+    "name": "Tentacool",
+    "type": ["Eau", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "description": "Une méduse d’eau de mer avec des tentacules venimeux.",
+    "generation": 1
+  },
+  {
+    "id": 75,
+    "name": "Tentacruel",
+    "type": ["Eau", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "description": "L’évolution de Tentacool, ses tentacules sont plus longues.",
+    "generation": 1
+  },
+  {
+    "id": 76,
+    "name": "Racaillou",
+    "type": ["Roche", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "description": "Un rocher avec des bras, lent mais très résistant.",
+    "generation": 1
+  },
+  {
+    "id": 77,
+    "name": "Gravalanch",
+    "type": ["Roche", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "description": "L’évolution de Racaillou, plus lourd et puissant.",
+    "generation": 1
+  },
+  {
+    "id": 78,
+    "name": "Grolem",
+    "type": ["Roche", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "description": "Un gros Pokémon fait de pierre, très solide.",
+    "generation": 1
+  },
+  {
+    "id": 79,
+    "name": "Ponyta",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "description": "Un cheval rapide avec une crinière enflammée.",
+    "generation": 1
+  },
+  {
+    "id": 80,
+    "name": "Galopa",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "description": "L’évolution de Ponyta, encore plus rapide et flamboyant.",
+    "generation": 1
+  },
+  {
+    "id": 81,
+    "name": "Ramoloss",
+    "type": ["Eau", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "description": "Un Pokémon lent d’esprit mais puissant en combat.",
+    "generation": 1
+  },
+  {
+    "id": 82,
+    "name": "Flagadoss",
+    "type": ["Eau", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "description": "L’évolution de Ramoloss, avec un esprit plus éveillé.",
+    "generation": 1
+  },
+  {
+    "id": 83,
+    "name": "Magneti",
+    "type": ["Acier", "Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "description": "Un petit Pokémon magnétique attirant le métal.",
+    "generation": 1
+  },
+  {
+    "id": 84,
+    "name": "Magneton",
+    "type": ["Acier", "Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "description": "Un groupe de trois Magneti qui s’assemblent.",
+    "generation": 1
+  },
+  {
+    "id": 85,
+    "name": "Canarticho",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "description": "Un canard qui aime se battre avec son bec.",
+    "generation": 1
+  },
+  {
+    "id": 86,
+    "name": "Doduo",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "description": "Un oiseau avec deux têtes, très rapide.",
+    "generation": 1
+  },
+  {
+    "id": 87,
+    "name": "Dodrio",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "description": "L’évolution de Doduo, avec trois têtes encore plus rapides.",
+    "generation": 1
+  },
+  {
+    "id": 88,
+    "name": "Otaria",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "description": "Un phoque joueur et sympathique.",
+    "generation": 1
+  },
+  {
+    "id": 89,
+    "name": "Lamantine",
+    "type": ["Eau", "Glace"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "description": "Un grand mammifère marin capable de nager vite.",
+    "generation": 1
+  },
+  {
+    "id": 90,
+    "name": "Tadmorv",
+    "type": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "description": "Un Pokémon toxique et puant.",
+    "generation": 1
+  },
+  {
+    "id": 91,
+    "name": "Grotadmorv",
+    "type": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "description": "Évolution de Tadmorv, dégage une odeur encore plus nauséabonde.",
+    "generation": 1
+  },
+  {
+    "id": 92,
+    "name": "Kokiyas",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "description": "Un petit crustacé timide qui se cache dans sa coquille.",
+    "generation": 1
+  },
+  {
+    "id": 93,
+    "name": "Crustabri",
+    "type": ["Eau", "Glace"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "description": "L’évolution de Kokiyas, ses pinces sont très puissantes.",
+    "generation": 1
+  },
+  {
+    "id": 94,
+    "name": "Fantominus",
+    "type": ["Spectre", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "description": "Un Pokémon fantôme qui flotte dans les endroits sombres.",
+    "generation": 1
+  },
+  {
+    "id": 95,
+    "name": "Spectrum",
+    "type": ["Spectre", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "description": "L’évolution de Fantominus, plus rapide et plus agressif.",
+    "generation": 1
+  },
+  {
+    "id": 96,
+    "name": "Ectoplasma",
+    "type": ["Spectre", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "description": "Le dernier stade d’évolution, très puissant et mystérieux.",
+    "generation": 1
+  },
+  {
+    "id": 97,
+    "name": "Onix",
+    "type": ["Roche", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "description": "Un énorme serpent fait de roches, très robuste.",
+    "generation": 1
+  },
+  {
+    "id": 98,
+    "name": "Soporifik",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "description": "Un Pokémon qui endort ses adversaires avec sa tambourine.",
+    "generation": 1
+  },
+  {
+    "id": 99,
+    "name": "Hypnomade",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "description": "Évolution de Soporifik, maître du sommeil et des rêves.",
+    "generation": 1
+  },
+  {
+    "id": 100,
+    "name": "Krabby",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "description": "Un crabe qui se déplace rapidement sur les plages.",
+    "generation": 1
+  },
+  {
+    "id": 101,
+    "name": "Krabboss",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "description": "L’évolution de Krabby, avec de puissantes pinces.",
+    "generation": 1
+  },
+  {
+    "id": 102,
+    "name": "Voltorbe",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+    "description": "Ressemble à une balle de bowling, mais peut exploser.",
+    "generation": 1
+  },
+  {
+    "id": 103,
+    "name": "Électrode",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "description": "L’évolution de Voltorbe, encore plus instable et explosive.",
+    "generation": 1
+  },
+  {
+    "id": 104,
+    "name": "Noeunoeuf",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "description": "Un œuf Pokémon qui roule en continu.",
+    "generation": 1
+  },
+  {
+    "id": 105,
+    "name": "Noadkoko",
+    "type": ["Plante", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "description": "L’évolution de Noeunoeuf, avec une grande couronne de feuilles.",
+    "generation": 1
+  },
+  {
+    "id": 106,
+    "name": "Osselait",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "description": "Un petit os animé qui erre dans les cavernes.",
+    "generation": 1
+  },
+  {
+    "id": 107,
+    "name": "Ossatueur",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "description": "L’évolution d’Osselait, un combattant féroce avec son os.",
+    "generation": 1
+  },
+  {
+    "id": 108,
+    "name": "Kicklee",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "description": "Un maître des coups de pied rapides et puissants.",
+    "generation": 1
+  },
+  {
+    "id": 109,
+    "name": "Tygnon",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "description": "Un expert en combat au corps à corps, très rapide.",
+    "generation": 1
+  },
+  {
+    "id": 110,
+    "name": "Excelangue",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "description": "Un Pokémon avec une langue très longue et collante.",
+    "generation": 1
+  },
+  {
+    "id": 111,
+    "name": "Smogo",
+    "type": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "description": "Un Pokémon toxique qui dégage un gaz irritant.",
+    "generation": 1
+  },
+  {
+    "id": 112,
+    "name": "Smogogo",
+    "type": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "description": "L’évolution de Smogo, avec une plus grande production de gaz toxiques.",
+    "generation": 1
+  },
+  {
+    "id": 113,
+    "name": "Rhinocorne",
+    "type": ["Sol", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "description": "Un rhinocéros puissant qui charge ses ennemis.",
+    "generation": 1
+  },
+  {
+    "id": 114,
+    "name": "Rhinoféros",
+    "type": ["Sol", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "description": "L’évolution de Rhinocorne, encore plus fort et robuste.",
+    "generation": 1
+  },
+  {
+    "id": 115,
+    "name": "Leveinard",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "description": "Un Pokémon chanceux qui porte un œuf précieux.",
+    "generation": 1
+  },
+  {
+    "id": 116,
+    "name": "Saquedeneu",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "description": "Un petit Pokémon arbre, très durable.",
+    "generation": 1
+  },
+  {
+    "id": 117,
+    "name": "Kangourex",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "description": "Un grand kangourou qui porte son petit dans sa poche.",
+    "generation": 1
+  },
+  {
+    "id": 118,
+    "name": "Hypotrempe",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "description": "Un petit Pokémon serpent marin.",
+    "generation": 1
+  },
+  {
+    "id": 119,
+    "name": "Hypocéan",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "description": "L’évolution d’Hypotrempe, un grand serpent marin puissant.",
+    "generation": 1
+  },
+  {
+    "id": 120,
+    "name": "Poissirène",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "description": "Un poisson élégant et coloré des eaux claires.",
+    "generation": 1
+  },
+  {
+    "id": 121,
+    "name": "Poissoroy",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "description": "L’évolution de Poissirène, plus grand et majestueux.",
+    "generation": 1
+  },
+  {
+    "id": 122,
+    "name": "Stari",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "description": "Une étoile de mer capable d’utiliser des pouvoirs psychiques.",
+    "generation": 1
+  },
+  {
+    "id": 123,
+    "name": "Staross",
+    "type": ["Eau", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "description": "L’évolution de Stari, très intelligent et puissant.",
+    "generation": 1
+  },
+  {
+    "id": 124,
+    "name": "M. Mime",
+    "type": ["Psy", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "description": "Un Pokémon capable d’imiter tout ce qu’il voit.",
+    "generation": 1
+  },
+  {
+    "id": 125,
+    "name": "Insécateur",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "description": "Un insecte rapide et agressif.",
+    "generation": 1
+  },
+  {
+    "id": 126,
+    "name": "Lippoutou",
+    "type": ["Glace", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "description": "Un Pokémon féminin qui utilise la glace et la magie.",
+    "generation": 1
+  },
+  {
+    "id": 127,
+    "name": "Élektek",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "description": "Un Pokémon électrique vif et agressif.",
+    "generation": 1
+  },
+  {
+    "id": 128,
+    "name": "Magmar",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "description": "Un Pokémon de feu qui crache des flammes.",
+    "generation": 1
+  },
+  {
+    "id": 129,
+    "name": "Scarabrute",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "description": "Un scarabée puissant et combatif.",
+    "generation": 1
+  },
+  {
+    "id": 130,
+    "name": "Tauros",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "description": "Un taureau sauvage et très agressif.",
+    "generation": 1
+  },
+  {
+    "id": 131,
+    "name": "Magicarpe",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "description": "Un poisson faible mais capable d’évoluer en un puissant Pokémon.",
+    "generation": 1
+  },
+  {
+    "id": 132,
+    "name": "Léviator",
+    "type": ["Eau", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "description": "Un dragon marin puissant et redoutable.",
+    "generation": 1
+  },
+  {
+    "id": 133,
+    "name": "Lokhlass",
+    "type": ["Eau", "Glace"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "description": "Un Pokémon doux, mais puissant, souvent utilisé pour le transport sur l’eau.",
+    "generation": 1
+  },
+  {
+    "id": 134,
+    "name": "Métamorph",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "description": "Un Pokémon capable de prendre l’apparence d’autres Pokémon.",
+    "generation": 1
+  },
+  {
+    "id": 135,
+    "name": "Évoli",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "description": "Un Pokémon qui peut évoluer en plusieurs formes différentes.",
+    "generation": 1
+  },
+  {
+    "id": 136,
+    "name": "Aquali",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "description": "Une des évolutions d’Évoli, spécialisée dans l’eau.",
+    "generation": 1
+  },
+  {
+    "id": 137,
+    "name": "Voltali",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "description": "Une évolution d’Évoli qui maîtrise l’électricité.",
+    "generation": 1
+  },
+  {
+    "id": 138,
+    "name": "Pyroli",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+    "description": "Une évolution d’Évoli spécialisée dans le feu.",
+    "generation": 1
+  },
+  {
+    "id": 139,
+    "name": "Porygon",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "description": "Un Pokémon artificiel créé par ordinateur.",
+    "generation": 1
+  },
+  {
+    "id": 140,
+    "name": "Amonita",
+    "type": ["Roche", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "description": "Un Pokémon fossile, ressemblant à un ammonite.",
+    "generation": 1
+  },
+  {
+    "id": 141,
+    "name": "Amonistar",
+    "type": ["Roche", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "description": "L’évolution d’Amonita, avec de puissants tentacules.",
+    "generation": 1
+  },
+  {
+    "id": 142,
+    "name": "Kabuto",
+    "type": ["Roche", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "description": "Un autre Pokémon fossile, ressemblant à un trilobite.",
+    "generation": 1
+  },
+  {
+    "id": 143,
+    "name": "Kabutops",
+    "type": ["Roche", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "description": "L’évolution de Kabuto, avec des bras tranchants.",
+    "generation": 1
+  },
+  {
+    "id": 144,
+    "name": "Ptéra",
+    "type": ["Roche", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "description": "Un Pokémon fossile ressemblant à un ptérodactyle.",
+    "generation": 1
+  },
+  {
+    "id": 145,
+    "name": "Ronflex",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "description": "Un Pokémon très gros, réputé pour son appétit insatiable.",
+    "generation": 1
+  },
+  {
+    "id": 146,
+    "name": "Artikodin",
+    "type": ["Glace", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "description": "Un des oiseaux légendaires, maître de la glace.",
+    "generation": 1
+  },
+  {
+    "id": 147,
+    "name": "Électhor",
+    "type": ["Électrik", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "description": "Un oiseau légendaire maîtrisant l’électricité.",
+    "generation": 1
+  },
+  {
+    "id": 148,
+    "name": "Sulfura",
+    "type": ["Feu", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "description": "Un oiseau légendaire de feu, puissant et majestueux.",
+    "generation": 1
+  },
+  {
+    "id": 149,
+    "name": "Minidraco",
+    "type": ["Dragon"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "description": "Un petit dragon bleu, agile et rapide.",
+    "generation": 1
+  },
+  {
+    "id": 150,
+    "name": "Draco",
+    "type": ["Dragon"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "description": "L’évolution de Minidraco, plus grand et plus fort.",
+    "generation": 1
+  },
+  {
+    "id": 151,
+    "name": "Dracolosse",
+    "type": ["Dragon", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "description": "Le dernier stade d’évolution, puissant et légendaire.",
+    "generation": 1
+  },
+  {
+    "id": 152,
+    "name": "Germignon",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "description": "Un Pokémon petit et gentil, aux feuilles fraîches sur le cou.",
+    "generation": 2
+  },
+  {
+    "id": 153,
+    "name": "Macronium",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+    "description": "L’évolution de Germignon, gorge ornée d’une feuille en forme de collier.",
+    "generation": 2
+  },
+  {
+    "id": 154,
+    "name": "Méganium",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+    "description": "Un puissant Pokémon quadrupède dont le cou est orné d’une grande fleur.",
+    "generation": 2
+  },
+  {
+    "id": 155,
+    "name": "Héricendre",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "description": "Un petit Pokémon au dos enflammé dès qu’il s’énerve.",
+    "generation": 2
+  },
+  {
+    "id": 156,
+    "name": "Feurisson",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+    "description": "Une forme plus élégante de Héricendre, au corps agile et enflammé.",
+    "generation": 2
+  },
+  {
+    "id": 157,
+    "name": "Typhlosion",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "description": "Le dernier stade du starter Feu, redoutable et rapide au combat.",
+    "generation": 2
+  },
+  {
+    "id": 158,
+    "name": "Kaiminus",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+    "description": "Un petit crocodile espiègle, toujours prêt à sauter dans l’eau.",
+    "generation": 2
+  },
+  {
+    "id": 159,
+    "name": "Crocrodil",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+    "description": "Imposante évolution de Kaiminus, robuste et rapide.",
+    "generation": 2
+  },
+  {
+    "id": 160,
+    "name": "Aligatueur",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+    "description": "Évolution finale du trio Eau, terriblement puissant.",
+    "generation": 2
+  },
+  {
+    "id": 161,
+    "name": "Fouinette",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+    "description": "Un petit mammifère curieux, toujours aux aguets.",
+    "generation": 2
+  },
+  {
+    "id": 162,
+    "name": "Fouinar",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "description": "Un Pokémon rusé, capable de voler avec agilité.",
+    "generation": 2
+  },
+  {
+    "id": 163,
+    "name": "Hoothoot",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "description": "Une chouette qui annonce l’heure grâce à ses cris réguliers.",
+    "generation": 2
+  },
+  {
+    "id": 164,
+    "name": "Noarfang",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "description": "Un rapace nocturne, doté d’une ouïe très fine.",
+    "generation": 2
+  },
+  {
+    "id": 165,
+    "name": "Coxy",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "description": "Petit insecte ailé, il adore butiner les fleurs.",
+    "generation": 2
+  },
+  {
+    "id": 166,
+    "name": "Coxyclaque",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "description": "Son vol rapide fait un bruit sec caractéristique.",
+    "generation": 2
+  },
+  {
+    "id": 167,
+    "name": "Mimigal",
+    "type": ["Insecte", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "description": "Petite araignée qui tisse sa toile pour attraper ses proies.",
+    "generation": 2
+  },
+  {
+    "id": 168,
+    "name": "Migalos",
+    "type": ["Insecte", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "description": "Grande araignée venimeuse aux pattes puissantes.",
+    "generation": 2
+  },
+  {
+    "id": 169,
+    "name": "Nostenfer",
+    "type": ["Poison", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "description": "Une chauve-souris rapide et agile.",
+    "generation": 2
+  },
+  {
+    "id": 170,
+    "name": "Loupio",
+    "type": ["Eau", "Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+    "description": "Utilise la lumière sur sa tête pour attirer ses proies.",
+    "generation": 2
+  },
+  {
+    "id": 171,
+    "name": "Lanturn",
+    "type": ["Eau", "Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+    "description": "Un poisson-lanterne qui éclaire les profondeurs sombres.",
+    "generation": 2
+  },
+  {
+    "id": 172,
+    "name": "Pichu",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "description": "Un petit Pokémon électrique, très affectueux mais fragile.",
+    "generation": 2
+  },
+  {
+    "id": 173,
+    "name": "Mélo",
+    "type": ["Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "description": "Une petite créature ronde qui adore chanter.",
+    "generation": 2
+  },
+  {
+    "id": 174,
+    "name": "Toudoudou",
+    "type": ["Normal", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+    "description": "Connu pour son chant apaisant qui endort ses ennemis.",
+    "generation": 2
+  },
+  {
+    "id": 175,
+    "name": "Togépi",
+    "type": ["Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+    "description": "Pokémon au tempérament joyeux, il porte une coquille en forme d’œuf.",
+    "generation": 2
+  },
+  {
+    "id": 176,
+    "name": "Togétic",
+    "type": ["Fée", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+    "description": "Évolution de Togépi, il apporte bonheur et chance.",
+    "generation": 2
+  },
+  {
+    "id": 177,
+    "name": "Natu",
+    "type": ["Psy", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "description": "Petit Pokémon mystérieux capable de prévoir l’avenir.",
+    "generation": 2
+  },
+  {
+    "id": 178,
+    "name": "Xatu",
+    "type": ["Psy", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "description": "Il médite en fixant le soleil levant et couchant simultanément.",
+    "generation": 2
+  },
+  {
+    "id": 179,
+    "name": "Wattouat",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "description": "Émet des décharges électriques en secouant sa laine.",
+    "generation": 2
+  },
+  {
+    "id": 180,
+    "name": "Lainergie",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "description": "Un mouton électrique qui stocke l’énergie dans sa laine.",
+    "generation": 2
+  },
+  {
+    "id": 181,
+    "name": "Pharamp",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "description": "Évolution de Lainergie, il libère une puissante énergie électrique.",
+    "generation": 2
+  },
+  {
+    "id": 182,
+    "name": "Joliflor",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "description": "Une fleur colorée qui diffuse un doux parfum.",
+    "generation": 2
+  },
+  {
+    "id": 183,
+    "name": "Marill",
+    "type": ["Eau", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "description": "Petit Pokémon rond qui aime vivre près de l’eau.",
+    "generation": 2
+  },
+  {
+    "id": 184,
+    "name": "Azumarill",
+    "type": ["Eau", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "description": "Évolution de Marill, plus grande et plus forte dans l’eau.",
+    "generation": 2
+  },
+  {
+    "id": 185,
+    "name": "Simularbre",
+    "type": ["Normal", "Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+    "description": "Un Pokémon qui imite les arbres pour se camoufler.",
+    "generation": 2
+  },
+  {
+    "id": 186,
+    "name": "Tarpaud",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+    "description": "Grenouille robuste, très agile dans l’eau.",
+    "generation": 2
+  },
+  {
+    "id": 187,
+    "name": "Granivol",
+    "type": ["Plante", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "description": "Petit oiseau qui vole en groupe dans les forêts.",
+    "generation": 2
+  },
+  {
+    "id": 188,
+    "name": "Floravol",
+    "type": ["Plante", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "description": "Évolution de Granivol, ses ailes ressemblent à des feuilles.",
+    "generation": 2
+  },
+  {
+    "id": 189,
+    "name": "Cotovol",
+    "type": ["Plante", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+    "description": "Un oiseau gracieux au plumage doux comme du coton.",
+    "generation": 2
+  },
+  {
+    "id": 190,
+    "name": "Capumain",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+    "description": "Singe agile, excellent grimpeur et combattant.",
+    "generation": 2
+  },
+  {
+    "id": 191,
+    "name": "Tournegrin",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "description": "Pokémon dont la tête tourne comme une girouette.",
+    "generation": 2
+  },
+  {
+    "id": 192,
+    "name": "Heliatronc",
+    "type": ["Électrik", "Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+    "description": "Une plante électrique qui tourne pour capter l’énergie solaire.",
+    "generation": 2
+  },
+  {
+    "id": 193,
+    "name": "Némélios",
+    "type": ["Électrik", "Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
+    "description": "Évolution d’Heliatronc, il stocke beaucoup d’énergie solaire.",
+    "generation": 2
+  },
+  {
+    "id": 194,
+    "name": "Muciole",
+    "type": ["Insecte", "Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "description": "Petite luciole qui brille dans le noir pour communiquer.",
+    "generation": 2
+  },
+  {
+    "id": 195,
+    "name": "Lumivole",
+    "type": ["Insecte", "Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "description": "Évolution de Muciole, sa lumière est très intense.",
+    "generation": 2
+  },
+  {
+    "id": 196,
+    "name": "Rosélia",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "description": "Petite plante aux fleurs toxiques.",
+    "generation": 2
+  },
+  {
+    "id": 197,
+    "name": "Gloupti",
+    "type": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "description": "Pokémon glouton qui avale tout sur son passage.",
+    "generation": 2
+  },
+  {
+    "id": 198,
+    "name": "Avaltout",
+    "type": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "description": "Son estomac peut digérer n’importe quoi.",
+    "generation": 2
+  },
+  {
+    "id": 199,
+    "name": "Tétarte",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "description": "Petit Pokémon grenouille qui aime sauter dans l’eau.",
+    "generation": 2
+  },
+  {
+    "id": 200,
+    "name": "Tartard",
+    "type": ["Eau", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+    "description": "Évolution de Tétarte, très puissant dans les combats.",
+    "generation": 2
+  },
+  {
+    "id": 201,
+    "name": "Granbull",
+    "type": ["Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+    "description": "Un chien féroce malgré son apparence mignonne.",
+    "generation": 2
+  },
+  {
+    "id": 202,
+    "name": "Snubbull",
+    "type": ["Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "description": "Un petit chien un peu boudeur mais loyal.",
+    "generation": 2
+  },
+  {
+    "id": 203,
+    "name": "Qulbutoké",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+    "description": "Pokémon nerveux qui frappe avec ses bras puissants.",
+    "generation": 2
+  },
+  {
+    "id": 204,
+    "name": "Steelix",
+    "type": ["Acier", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "description": "Un énorme serpent métallique, très robuste.",
+    "generation": 2
+  },
+  {
+    "id": 205,
+    "name": "Cizayox",
+    "type": ["Insecte", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "description": "Insecte géant aux pinces très puissantes.",
+    "generation": 2
+  },
+  {
+    "id": 206,
+    "name": "Caratroc",
+    "type": ["Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "description": "Petit Pokémon fait de pierre, très dur.",
+    "generation": 2
+  },
+  {
+    "id": 207,
+    "name": "Scarhino",
+    "type": ["Insecte", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
+    "description": "Pokémon guerrier avec une force incroyable.",
+    "generation": 2
+  },
+  {
+    "id": 208,
+    "name": "Farfuret",
+    "type": ["Ténèbres", "Glace"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
+    "description": "Un chasseur rusé qui traque ses proies dans la neige.",
+    "generation": 2
+  },
+  {
+    "id": 209,
+    "name": "Teddiursa",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+    "description": "Un petit ourson joueur qui adore le miel.",
+    "generation": 2
+  },
+  {
+    "id": 210,
+    "name": "Ursaring",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "description": "Un grand ours fort, très protecteur.",
+    "generation": 2
+  },
+  {
+    "id": 211,
+    "name": "Slugma",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "description": "Une limace de magma, toujours chaude au toucher.",
+    "generation": 2
+  },
+  {
+    "id": 212,
+    "name": "Magcargo",
+    "type": ["Feu", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "description": "Une limace de feu à la coquille solide et chaude.",
+    "generation": 2
+  },
+  {
+    "id": 213,
+    "name": "Swinub",
+    "type": ["Glace", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "description": "Un petit cochon qui adore fouiller dans la neige.",
+    "generation": 2
+  },
+  {
+    "id": 214,
+    "name": "Piloswine",
+    "type": ["Glace", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "description": "Un grand cochon couvert de poils, puissant dans la neige.",
+    "generation": 2
+  },
+  {
+    "id": 215,
+    "name": "Corsola",
+    "type": ["Eau", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "description": "Une créature corallienne colorée qui vit en mer peu profonde.",
+    "generation": 2
+  },
+  {
+    "id": 216,
+    "name": "Remoraid",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+    "description": "Un poisson rapide et vif qui vit dans les océans.",
+    "generation": 2
+  },
+  {
+    "id": 217,
+    "name": "Octillery",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "description": "Un poulpe puissant capable de lancer des jets d’eau précis.",
+    "generation": 2
+  },
+  {
+    "id": 218,
+    "name": "Cadoizo",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+    "description": "Un pokémon agile et rapide, très habile au combat.",
+    "generation": 2
+  },
+  {
+    "id": 219,
+    "name": "Démanta",
+    "type": ["Eau", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+    "description": "Un raie manta agile, il plane au-dessus de l’eau.",
+    "generation": 2
+  },
+  {
+    "id": 220,
+    "name": "Airmure",
+    "type": ["Acier", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
+    "description": "Un oiseau métallique au plumage extrêmement dur.",
+    "generation": 2
+  },
+  {
+    "id": 221,
+    "name": "Malosse",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+    "description": "Un petit chien féroce qui forme des meutes.",
+    "generation": 2
+  },
+  {
+    "id": 222,
+    "name": "Démolosse",
+    "type": ["Ténèbres", "Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+    "description": "Évolution de Malosse, il est très puissant et protecteur.",
+    "generation": 2
+  },
+  {
+    "id": 223,
+    "name": "Hyporoi",
+    "type": ["Eau", "Dragon"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+    "description": "Un puissant dragon aquatique capable de nager très vite.",
+    "generation": 2
+  },
+  {
+    "id": 224,
+    "name": "Phanpy",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "description": "Un petit éléphant qui adore jouer dans la boue.",
+    "generation": 2
+  },
+  {
+    "id": 225,
+    "name": "Donphan",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "description": "Évolution de Phanpy, son corps est protégé par une armure dure.",
+    "generation": 2
+  },
+  {
+    "id": 226,
+    "name": "Porygon2",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "description": "Une version améliorée de Porygon, créée par ordinateur.",
+    "generation": 2
+  },
+  {
+    "id": 227,
+    "name": "Cerfrousse",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "description": "Un cerf élégant aux bois impressionnants.",
+    "generation": 2
+  },
+  {
+    "id": 228,
+    "name": "Queulorior",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+    "description": "Il utilise sa queue pour peindre des motifs colorés.",
+    "generation": 2
+  },
+  {
+    "id": 229,
+    "name": "Debugant",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "description": "Petit insecte qui évolue rapidement.",
+    "generation": 2
+  },
+  {
+    "id": 230,
+    "name": "Kapoera",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+    "description": "Un maître du combat au corps à corps agile.",
+    "generation": 2
+  },
+  {
+    "id": 231,
+    "name": "Lippoutou",
+    "type": ["Glace", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "description": "Un danseur élégant qui utilise des pouvoirs psychiques.",
+    "generation": 2
+  },
+  {
+    "id": 232,
+    "name": "Élekid",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+    "description": "Jeune Pokémon électrique plein d’énergie.",
+    "generation": 2
+  },
+  {
+    "id": 233,
+    "name": "Magby",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+    "description": "Un bébé Pokémon de feu, très vif et joueur.",
+    "generation": 2
+  },
+  {
+    "id": 234,
+    "name": "Écrémeuh",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "description": "Pokémon vache au pelage crémeux.",
+    "generation": 2
+  },
+  {
+    "id": 235,
+    "name": "Leuphorie",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "description": "Évolution d’Écrémeuh, très douce et maternelle.",
+    "generation": 2
+  },
+  {
+    "id": 236,
+    "name": "Poliwhirl",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+    "description": "Pokémon aquatique capable de tourner très vite dans l’eau.",
+    "generation": 2
+  },
+  {
+    "id": 237,
+    "name": "Politoed",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "description": "Évolution de Poliwhirl, il chante pour communiquer.",
+    "generation": 2
+  },
+  {
+    "id": 238,
+    "name": "Montagnard",
+    "type": ["Eau", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "description": "Pokémon robuste vivant dans les zones rocheuses.",
+    "generation": 2
+  },
+  {
+    "id": 239,
+    "name": "Sabelette d’Alola",
+    "type": ["Glace", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "description": "Variante régionale au pelage glacé et armure métallique.",
+    "generation": 2
+  },
+  {
+    "id": 240,
+    "name": "Sabelette d’Alola (evolution)",
+    "type": ["Glace", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "description": "Évolution de Sabelette d’Alola, encore plus résistante.",
+    "generation": 2
+  },
+  {
+    "id": 241,
+    "name": "Kokiyas",
+    "type": ["Eau", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+    "description": "Pokémon crustacé avec une carapace solide.",
+    "generation": 2
+  },
+  {
+    "id": 242,
+    "name": "Crustabri",
+    "type": ["Eau", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "description": "Évolution de Kokiyas, très puissant et dur.",
+    "generation": 2
+  },
+  {
+    "id": 243,
+    "name": "Fantominus",
+    "type": ["Spectre", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "description": "Un fantôme vaporeux qui aime hanter les lieux sombres.",
+    "generation": 2
+  },
+  {
+    "id": 244,
+    "name": "Spectrum",
+    "type": ["Spectre", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "description": "Évolution de Fantominus, plus puissant et effrayant.",
+    "generation": 2
+  },
+  {
+    "id": 245,
+    "name": "Ectoplasma",
+    "type": ["Spectre", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "description": "Une entité spectrale qui effraie ses adversaires.",
+    "generation": 2
+  },
+  {
+    "id": 246,
+    "name": "Onix",
+    "type": ["Roche", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "description": "Un énorme serpent de pierre, imposant et solide.",
+    "generation": 2
+  },
+  {
+    "id": 247,
+    "name": "Steelix",
+    "type": ["Acier", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "description": "Évolution métallique d’Onix, très résistante.",
+    "generation": 2
+  },
+  {
+    "id": 248,
+    "name": "Snubbull",
+    "type": ["Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "description": "Un petit chien un peu boudeur mais loyal.",
+    "generation": 2
+  },
+  {
+    "id": 249,
+    "name": "Granbull",
+    "type": ["Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "description": "Évolution de Snubbull, plus imposante et forte.",
+    "generation": 2
+  },
+  {
+    "id": 250,
+    "name": "Qulbutoké",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+    "description": "Pokémon nerveux qui frappe avec ses bras puissants.",
+    "generation": 2
+  },
+  {
+    "id": 251,
+    "name": "Steelix",
+    "type": ["Acier", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "description": "Un énorme serpent métallique, très robuste.",
+    "generation": 2
+  },
+  {
+    "id": 252,
+    "name": "Arcko",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "description": "Un petit lézard agile et rapide.",
+    "generation": 3
+  },
+  {
+    "id": 253,
+    "name": "Massko",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+    "description": "L’évolution plus grande et forte d’Arcko.",
+    "generation": 3
+  },
+  {
+    "id": 254,
+    "name": "Jungko",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+    "description": "Un Pokémon serpent agile et puissant.",
+    "generation": 3
+  },
+  {
+    "id": 255,
+    "name": "Poussifeu",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "description": "Un petit oiseau feu vif et courageux.",
+    "generation": 3
+  },
+  {
+    "id": 256,
+    "name": "Galifeu",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+    "description": "L’évolution plus forte et rapide de Poussifeu.",
+    "generation": 3
+  },
+  {
+    "id": 257,
+    "name": "Braségali",
+    "type": ["Feu", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+    "description": "Un Pokémon feu avec de puissants coups de poing.",
+    "generation": 3
+  },
+  {
+    "id": 258,
+    "name": "Gobou",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "description": "Un petit Pokémon amphibie et curieux.",
+    "generation": 3
+  },
+  {
+    "id": 259,
+    "name": "Flobio",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+    "description": "L’évolution plus forte et plus rapide de Gobou.",
+    "generation": 3
+  },
+  {
+    "id": 260,
+    "name": "Laggron",
+    "type": ["Eau", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+    "description": "Un Pokémon puissant amphibie avec une grande force.",
+    "generation": 3
+  },
+  {
+    "id": 261,
+    "name": "Medhyèna",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png",
+    "description": "Un Pokémon chien sauvage aux crocs puissants.",
+    "generation": 3
+  },
+  {
+    "id": 262,
+    "name": "Grahyèna",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "description": "L’évolution rapide et féroce de Medhyèna.",
+    "generation": 3
+  },
+  {
+    "id": 263,
+    "name": "Zigzaton",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "description": "Un petit Pokémon rusé et rapide.",
+    "generation": 3
+  },
+  {
+    "id": 264,
+    "name": "Linéon",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+    "description": "L’évolution agile et alerte de Zigzaton.",
+    "generation": 3
+  },
+  {
+    "id": 265,
+    "name": "Chenipotte",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "description": "Une chenille qui tisse son cocon avec soin.",
+    "generation": 3
+  },
+  {
+    "id": 266,
+    "name": "Armulys",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+    "description": "L’évolution ailée et rapide de Chenipotte.",
+    "generation": 3
+  },
+  {
+    "id": 267,
+    "name": "Charmillon",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+    "description": "Un papillon élégant aux ailes colorées.",
+    "generation": 3
+  },
+  {
+    "id": 268,
+    "name": "Blindalys",
+    "type": ["Insecte", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+    "description": "Un Pokémon robuste avec une carapace dure.",
+    "generation": 3
+  },
+  {
+    "id": 269,
+    "name": "Papinox",
+    "type": ["Insecte", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "description": "Un papillon mystique avec des pouvoirs psychiques.",
+    "generation": 3
+  },
+  {
+    "id": 270,
+    "name": "Nénupiot",
+    "type": ["Plante", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "description": "Une plante aquatique qui flotte sur l’eau.",
+    "generation": 3
+  },
+  {
+    "id": 271,
+    "name": "Lombre",
+    "type": ["Plante", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+    "description": "L’évolution de Nénupiot, très agile dans l’eau.",
+    "generation": 3
+  },
+  {
+    "id": 272,
+    "name": "Ludicolo",
+    "type": ["Plante", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "description": "Un Pokémon joyeux qui danse sous la pluie.",
+    "generation": 3
+  },
+  {
+    "id": 273,
+    "name": "Grainipiot",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png",
+    "description": "Un petit Pokémon plante à l’air innocent.",
+    "generation": 3
+  },
+  {
+    "id": 274,
+    "name": "Floravol",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "description": "Un Pokémon plante au corps agile et rapide.",
+    "generation": 3
+  },
+  {
+    "id": 275,
+    "name": "Cotovol",
+    "type": ["Plante", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "description": "Un oiseau avec un plumage de feuilles.",
+    "generation": 3
+  },
+  {
+    "id": 276,
+    "name": "Capidextre",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+    "description": "Un Pokémon insecte avec des bras puissants.",
+    "generation": 3
+  },
+  {
+    "id": 277,
+    "name": "Scarhino",
+    "type": ["Insecte", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+    "description": "Un scarabée fort et combatif.",
+    "generation": 3
+  },
+  {
+    "id": 278,
+    "name": "Farfuret",
+    "type": ["Normal", "Glace"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "description": "Un petit mustélidé rapide et vif.",
+    "generation": 3
+  },
+  {
+    "id": 279,
+    "name": "Ténéfix",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "description": "Un Pokémon renard sombre et rusé.",
+    "generation": 3
+  },
+  {
+    "id": 280,
+    "name": "Mysdibule",
+    "type": ["Insecte", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "description": "Un Pokémon insecte blindé d'acier.",
+    "generation": 3
+  },
+  {
+    "id": 281,
+    "name": "Galekid",
+    "type": ["Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "description": "Un petit Pokémon rocheux avec une forte carapace.",
+    "generation": 3
+  },
+  {
+    "id": 282,
+    "name": "Galegon",
+    "type": ["Roche", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "description": "L’évolution robuste et blindée de Galekid.",
+    "generation": 3
+  },
+  {
+    "id": 283,
+    "name": "Galeking",
+    "type": ["Roche", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+    "description": "Le Pokémon blindé puissant et imposant.",
+    "generation": 3
+  },
+  {
+    "id": 284,
+    "name": "Méios",
+    "type": ["Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "description": "Un Pokémon rocheux qui aime se cacher dans les rochers.",
+    "generation": 3
+  },
+  {
+    "id": 285,
+    "name": "Nucléos",
+    "type": ["Roche", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+    "description": "Un Pokémon mystérieux avec des pouvoirs psychiques.",
+    "generation": 3
+  },
+  {
+    "id": 286,
+    "name": "Méios",
+    "type": ["Roche", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "description": "L’évolution puissante de Nucléos.",
+    "generation": 3
+  },
+  {
+    "id": 287,
+    "name": "Symbios",
+    "type": ["Roche", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+    "description": "Le stade final de la lignée Nucléos, avec de grandes capacités.",
+    "generation": 3
+  },
+  {
+    "id": 288,
+    "name": "Coupenotte",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "description": "Un petit crabe agile qui aime les rivières.",
+    "generation": 3
+  },
+  {
+    "id": 289,
+    "name": "Incisache",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
+    "description": "L’évolution rapide et forte de Coupenotte.",
+    "generation": 3
+  },
+  {
+    "id": 290,
+    "name": "Crocrodil",
+    "type": ["Eau", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "description": "Un Pokémon crocodile puissant et féroce.",
+    "generation": 3
+  },
+  {
+    "id": 291,
+    "name": "Farfuret",
+    "type": ["Normal", "Glace"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "description": "Un petit mustélidé rapide et vif.",
+    "generation": 3
+  },
+  {
+    "id": 292,
+    "name": "Ténéfix",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "description": "Un Pokémon renard sombre et rusé.",
+    "generation": 3
+  },
+  {
+    "id": 293,
+    "name": "Mysdibule",
+    "type": ["Insecte", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+    "description": "Un Pokémon insecte blindé d'acier.",
+    "generation": 3
+  },
+  {
+    "id": 294,
+    "name": "Galekid",
+    "type": ["Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+    "description": "Un petit Pokémon rocheux avec une forte carapace.",
+    "generation": 3
+  },
+  {
+    "id": 295,
+    "name": "Galegon",
+    "type": ["Roche", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+    "description": "L’évolution robuste et blindée de Galekid.",
+    "generation": 3
+  },
+  {
+    "id": 296,
+    "name": "Galeking",
+    "type": ["Roche", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "description": "Le Pokémon blindé puissant et imposant.",
+    "generation": 3
+  },
+  {
+    "id": 297,
+    "name": "Méditikka",
+    "type": ["Combat", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "description": "Un Pokémon méditant avec des pouvoirs psychiques.",
+    "generation": 3
+  },
+  {
+    "id": 298,
+    "name": "Charmina",
+    "type": ["Combat", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "description": "L’évolution plus puissante de Méditikka.",
+    "generation": 3
+  },
+  {
+    "id": 299,
+    "name": "Dynavolt",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "description": "Un Pokémon électrique rapide et énergique.",
+    "generation": 3
+  },
+  {
+    "id": 300,
+    "name": "Élecsprint",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "description": "L’évolution plus rapide et puissante de Dynavolt.",
+    "generation": 3
+  },
+  {
+    "id": 301,
+    "name": "Posipi",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+    "description": "Un Pokémon joyeux qui diffuse de l’électricité positive.",
+    "generation": 3
+  },
+  {
+    "id": 302,
+    "name": "Négapi",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "description": "Un Pokémon électrique avec une énergie négative.",
+    "generation": 3
+  },
+  {
+    "id": 303,
+    "name": "Muciole",
+    "type": ["Insecte", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "description": "Un petit papillon lumineux et charmant.",
+    "generation": 3
+  },
+  {
+    "id": 304,
+    "name": "Lumivole",
+    "type": ["Insecte", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "description": "L’évolution lumineuse et gracieuse de Muciole.",
+    "generation": 3
+  },
+  {
+    "id": 305,
+    "name": "Rosélia",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "description": "Un Pokémon plante avec des épines empoisonnées.",
+    "generation": 3
+  },
+  {
+    "id": 306,
+    "name": "Gloupti",
+    "type": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+    "description": "Un Pokémon glouton qui avale tout ce qu’il trouve.",
+    "generation": 3
+  },
+  {
+    "id": 307,
+    "name": "Avaltout",
+    "type": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "description": "Un Pokémon qui avale tout et dégage un poison puissant.",
+    "generation": 3
+  },
+  {
+    "id": 308,
+    "name": "Carvanha",
+    "type": ["Eau", "Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "description": "Un petit poisson agressif avec des dents acérées.",
+    "generation": 3
+  },
+  {
+    "id": 309,
+    "name": "Sharpedo",
+    "type": ["Eau", "Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "description": "Un grand requin rapide et dangereux.",
+    "generation": 3
+  },
+  {
+    "id": 310,
+    "name": "Wailmer",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "description": "Un grand cétacé joyeux qui aime nager.",
+    "generation": 3
+  },
+  {
+    "id": 311,
+    "name": "Wailord",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "description": "Le plus grand Pokémon baleine de la région Hoenn.",
+    "generation": 3
+  },
+  {
+    "id": 312,
+    "name": "Chamallot",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "description": "Un lézard de feu agile et vif.",
+    "generation": 3
+  },
+  {
+    "id": 313,
+    "name": "Camérupt",
+    "type": ["Feu", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+    "description": "Un grand Pokémon avec des bosses volcaniques.",
+    "generation": 3
+  },
+  {
+    "id": 314,
+    "name": "Chartor",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "description": "Un Pokémon puissant avec un pelage ardent.",
+    "generation": 3
+  },
+  {
+    "id": 315,
+    "name": "Spoink",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+    "description": "Un Pokémon qui rebondit pour garder son énergie.",
+    "generation": 3
+  },
+  {
+    "id": 316,
+    "name": "Groret",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "description": "L’évolution robuste de Spoink, avec de puissants pouvoirs psychiques.",
+    "generation": 3
+  },
+  {
+    "id": 317,
+    "name": "Spinarak",
+    "type": ["Insecte", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "description": "Une araignée qui tisse sa toile avec précision.",
+    "generation": 3
+  },
+  {
+    "id": 318,
+    "name": "Ariados",
+    "type": ["Insecte", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "description": "Un Pokémon araignée rapide et dangereux.",
+    "generation": 3
+  },
+  {
+    "id": 319,
+    "name": "Crobat",
+    "type": ["Poison", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "description": "Une chauve-souris rapide et agile.",
+    "generation": 3
+  },
+  {
+    "id": 320,
+    "name": "Chinchidou",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "description": "Un petit rongeur curieux et joueur.",
+    "generation": 3
+  },
+  {
+    "id": 321,
+    "name": "Pashmilla",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "description": "Un rongeur doux au pelage soyeux.",
+    "generation": 3
+  },
+  {
+    "id": 322,
+    "name": "Mastouffe",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "description": "Un chien de combat loyal et fort.",
+    "generation": 3
+  },
+  {
+    "id": 323,
+    "name": "Simularbre",
+    "type": ["Insecte", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+    "description": "Un Pokémon insecte avec des pouvoirs psychiques.",
+    "generation": 3
+  },
+  {
+    "id": 324,
+    "name": "Tarpaud",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "description": "Un Pokémon amphibien fort et agile.",
+    "generation": 3
+  },
+  {
+    "id": 325,
+    "name": "Granivol",
+    "type": ["Plante", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+    "description": "Un petit oiseau avec un plumage végétal.",
+    "generation": 3
+  },
+  {
+    "id": 326,
+    "name": "Floravol",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+    "description": "Un Pokémon plante au corps agile et rapide.",
+    "generation": 3
+  },
+  {
+    "id": 327,
+    "name": "Cotovol",
+    "type": ["Plante", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "description": "Un oiseau avec un plumage de feuilles.",
+    "generation": 3
+  },
+  {
+    "id": 328,
+    "name": "Capidextre",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "description": "Un Pokémon insecte avec des bras puissants.",
+    "generation": 3
+  },
+  {
+    "id": 329,
+    "name": "Baudrive",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "description": "Un Pokémon insecte rapide et agile.",
+    "generation": 3
+  },
+  {
+    "id": 330,
+    "name": "Grodrive",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "description": "L’évolution plus forte et rapide de Baudrive.",
+    "generation": 3
+  },
+  {
+    "id": 331,
+    "name": "Hypotrempe",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "description": "Un petit Pokémon serpent de mer.",
+    "generation": 3
+  },
+  {
+    "id": 332,
+    "name": "Hypocéan",
+    "type": ["Eau", "Dragon"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "description": "L’évolution puissante d’Hypotrempe.",
+    "generation": 3
+  },
+  {
+    "id": 333,
+    "name": "Poissirène",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "description": "Un Pokémon poisson gracieux.",
+    "generation": 3
+  },
+  {
+    "id": 334,
+    "name": "Poissoroy",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "description": "Un grand poisson rapide et agile.",
+    "generation": 3
+  },
+  {
+    "id": 335,
+    "name": "Stari",
+    "type": ["Eau", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
+    "description": "Une étoile de mer avec des pouvoirs psychiques.",
+    "generation": 3
+  },
+  {
+    "id": 336,
+    "name": "Staross",
+    "type": ["Eau", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "description": "L’évolution majestueuse de Stari.",
+    "generation": 3
+  },
+  {
+    "id": 337,
+    "name": "M. Mime",
+    "type": ["Psy", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "description": "Un Pokémon mime aux pouvoirs psychiques.",
+    "generation": 3
+  },
+  {
+    "id": 338,
+    "name": "Insécateur",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "description": "Un Pokémon insecte rapide et puissant.",
+    "generation": 3
+  },
+  {
+    "id": 339,
+    "name": "Lippoutou",
+    "type": ["Glace", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "description": "Un Pokémon au corps froid avec des pouvoirs psychiques.",
+    "generation": 3
+  },
+  {
+    "id": 340,
+    "name": "Élekid",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "description": "Un Pokémon électrique juvénile, plein d’énergie.",
+    "generation": 3
+  },
+  {
+    "id": 341,
+    "name": "Magby",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "description": "Un Pokémon bébé de type feu, très chaud.",
+    "generation": 3
+  },
+  {
+    "id": 342,
+    "name": "Écrémeuh",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "description": "Un Pokémon vache au lait crémeux.",
+    "generation": 3
+  },
+  {
+    "id": 343,
+    "name": "Leuphorie",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+    "description": "Un Pokémon guérisseur plein de compassion.",
+    "generation": 3
+  },
+  {
+    "id": 344,
+    "name": "Raikou",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "description": "Un Pokémon légendaire puissant de la foudre.",
+    "generation": 3
+  },
+  {
+    "id": 345,
+    "name": "Entei",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+    "description": "Un Pokémon légendaire au feu intense.",
+    "generation": 3
+  },
+  {
+    "id": 346,
+    "name": "Suicune",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "description": "Un Pokémon légendaire de l'eau pure.",
+    "generation": 3
+  },
+  {
+    "id": 347,
+    "name": "Embrylex",
+    "type": ["Roche", "Dragon"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+    "description": "Un petit dragon en formation, très agressif.",
+    "generation": 3
+  },
+  {
+    "id": 348,
+    "name": "Ymphect",
+    "type": ["Roche", "Dragon"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "description": "L'évolution intermédiaire d'Embrylex.",
+    "generation": 3
+  },
+  {
+    "id": 349,
+    "name": "Tyranocif",
+    "type": ["Roche", "Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "description": "Un puissant dinosaure avec une mâchoire redoutable.",
+    "generation": 3
+  },
+  {
+    "id": 350,
+    "name": "Lugia",
+    "type": ["Psy", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "description": "Un Pokémon légendaire gardien des mers.",
+    "generation": 3
+  },
+  {
+    "id": 351,
+    "name": "Ho-Oh",
+    "type": ["Feu", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+    "description": "Un Pokémon légendaire qui symbolise la renaissance.",
+    "generation": 3
+  },
+  {
+    "id": 352,
+    "name": "Celebi",
+    "type": ["Psy", "Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "description": "Un Pokémon mythique capable de voyager dans le temps.",
+    "generation": 3
+  },
+  {
+    "id": 353,
+    "name": "Arcko",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "description": "Un petit lézard très agile et vif.",
+    "generation": 3
+  },
+  {
+    "id": 354,
+    "name": "Massko",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "description": "L'évolution d'Arcko, plus robuste et rapide.",
+    "generation": 3
+  },
+  {
+    "id": 355,
+    "name": "Jungko",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "description": "Un puissant Pokémon plante, très agile.",
+    "generation": 3
+  },
+  {
+    "id": 356,
+    "name": "Poussifeu",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "description": "Un petit oiseau de feu vif et courageux.",
+    "generation": 3
+  },
+  {
+    "id": 357,
+    "name": "Galifeu",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "description": "L'évolution de Poussifeu, plus rapide et puissant.",
+    "generation": 3
+  },
+  {
+    "id": 358,
+    "name": "Braségali",
+    "type": ["Feu", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+    "description": "Un Pokémon feu très combattif et puissant.",
+    "generation": 3
+  },
+  {
+    "id": 359,
+    "name": "Gobou",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "description": "Un petit Pokémon aquatique curieux et joueur.",
+    "generation": 3
+  },
+  {
+    "id": 360,
+    "name": "Flobio",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "description": "L'évolution aquatique de Gobou, plus rapide.",
+    "generation": 3
+  },
+  {
+    "id": 361,
+    "name": "Laggron",
+    "type": ["Eau", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "description": "Un puissant Pokémon eau et sol avec une grande force.",
+    "generation": 3
+  },
+  {
+    "id": 362,
+    "name": "Medhyèna",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "description": "Un Pokémon chien sauvage, très rusé.",
+    "generation": 3
+  },
+  {
+    "id": 363,
+    "name": "Grahyèna",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "description": "L’évolution de Medhyèna, plus forte et rapide.",
+    "generation": 3
+  },
+  {
+    "id": 364,
+    "name": "Zigzaton",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+    "description": "Un petit mammifère curieux et vif.",
+    "generation": 3
+  },
+  {
+    "id": 365,
+    "name": "Linéon",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+    "description": "L'évolution de Zigzaton, plus rapide et alerte.",
+    "generation": 3
+  },
+  {
+    "id": 366,
+    "name": "Chenipotte",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+    "description": "Une chenille verte, première étape de son évolution.",
+    "generation": 3
+  },
+  {
+    "id": 367,
+    "name": "Armulys",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+    "description": "Un cocon d'insecte où le Pokémon évolue.",
+    "generation": 3
+  },
+  {
+    "id": 368,
+    "name": "Charmillon",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+    "description": "Un papillon coloré et gracieux.",
+    "generation": 3
+  },
+  {
+    "id": 369,
+    "name": "Blindalys",
+    "type": ["Roche", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+    "description": "Un Pokémon fort avec une carapace solide.",
+    "generation": 3
+  },
+  {
+    "id": 370,
+    "name": "Papinox",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "description": "Un papillon rapide et élégant.",
+    "generation": 3
+  },
+  {
+    "id": 371,
+    "name": "Nénupiot",
+    "type": ["Plante", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "description": "Un Pokémon plante aquatique en forme de nénuphar.",
+    "generation": 3
+  },
+  {
+    "id": 372,
+    "name": "Lombre",
+    "type": ["Plante", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "description": "L’évolution de Nénupiot, très joueur.",
+    "generation": 3
+  },
+  {
+    "id": 373,
+    "name": "Ludicolo",
+    "type": ["Plante", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "description": "Un Pokémon joyeux et dansant, de type plante et eau.",
+    "generation": 3
+  },
+  {
+    "id": 374,
+    "name": "Grainipiot",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "description": "Un petit Pokémon graine avec beaucoup d’énergie.",
+    "generation": 3
+  },
+  {
+    "id": 375,
+    "name": "Pifeuil",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+    "description": "Un Pokémon plante élancé et vif.",
+    "generation": 3
+  },
+  {
+    "id": 376,
+    "name": "Tengalice",
+    "type": ["Plante", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "description": "Un Pokémon plante avec une armure d'acier.",
+    "generation": 3
+  },
+  {
+    "id": 377,
+    "name": "Nirondelle",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "description": "Un petit oiseau rapide et agile.",
+    "generation": 3
+  },
+  {
+    "id": 378,
+    "name": "Hélédelle",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "description": "L’évolution de Nirondelle, plus rapide.",
+    "generation": 3
+  },
+  {
+    "id": 379,
+    "name": "Goélise",
+    "type": ["Eau", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "description": "Un petit oiseau marin, très vif.",
+    "generation": 3
+  },
+  {
+    "id": 380,
+    "name": "Bekipan",
+    "type": ["Eau", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+    "description": "L’évolution de Goélise, plus fort et rapide.",
+    "generation": 3
+  },
+  {
+    "id": 381,
+    "name": "Tarsal",
+    "type": ["Psy", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+    "description": "Un petit Pokémon psychique très sensible.",
+    "generation": 3
+  },
+  {
+    "id": 382,
+    "name": "Kirlia",
+    "type": ["Psy", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "description": "L’évolution de Tarsal, gracieux et élégant.",
+    "generation": 3
+  },
+  {
+    "id": 383,
+    "name": "Gardevoir",
+    "type": ["Psy", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "description": "Un Pokémon protecteur et puissant.",
+    "generation": 3
+  },
+  {
+    "id": 384,
+    "name": "Téraclope",
+    "type": ["Spectre"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "description": "Un Pokémon fantôme mystérieux et puissant.",
+    "generation": 3
+  },
+  {
+    "id": 385,
+    "name": "Metamorph",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "description": "Un Pokémon capable de prendre l’apparence d’autres Pokémon.",
+    "generation": 3
+  },
+  {
+    "id": 386,
+    "name": "Regirock",
+    "type": ["Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "description": "Un golem de roche légendaire très résistant.",
+    "generation": 3
+  },
+  {
+    "id": 387,
+    "name": "Tortipouss",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+    "description": "Un petit Pokémon tortue, courageux et vif.",
+    "generation": 4
+  },
+  {
+    "id": 388,
+    "name": "Boskara",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+    "description": "L’évolution de Tortipouss, plus rapide et fort.",
+    "generation": 4
+  },
+  {
+    "id": 389,
+    "name": "Torterra",
+    "type": ["Plante", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
+    "description": "Un puissant Pokémon tortue avec un arbre sur le dos.",
+    "generation": 4
+  },
+  {
+    "id": 390,
+    "name": "Ouisticram",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+    "description": "Un petit singe de feu très vif et joueur.",
+    "generation": 4
+  },
+  {
+    "id": 391,
+    "name": "Chimpenfeu",
+    "type": ["Feu", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+    "description": "L’évolution d’Ouisticram, rapide et puissant.",
+    "generation": 4
+  },
+  {
+    "id": 392,
+    "name": "Simiabraz",
+    "type": ["Feu", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "description": "Un singe feu très fort et énergique.",
+    "generation": 4
+  },
+  {
+    "id": 393,
+    "name": "Tiplouf",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+    "description": "Un petit manchot d’eau vif et courageux.",
+    "generation": 4
+  },
+  {
+    "id": 394,
+    "name": "Prinplouf",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+    "description": "L’évolution de Tiplouf, plus grand et fort.",
+    "generation": 4
+  },
+  {
+    "id": 395,
+    "name": "Pingoléon",
+    "type": ["Eau", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "description": "Un manchot puissant avec une armure d’acier.",
+    "generation": 4
+  },
+  {
+    "id": 396,
+    "name": "Étourmi",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "description": "Un petit oiseau très rapide et curieux.",
+    "generation": 4
+  },
+  {
+    "id": 397,
+    "name": "Étourvol",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+    "description": "L’évolution d’Étourmi, plus agile et rapide.",
+    "generation": 4
+  },
+  {
+    "id": 398,
+    "name": "Étouraptor",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "description": "Un oiseau de proie puissant et agile.",
+    "generation": 4
+  },
+  {
+    "id": 399,
+    "name": "Keunotor",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
+    "description": "Un petit mammifère roux très curieux.",
+    "generation": 4
+  },
+  {
+    "id": 400,
+    "name": "Castorno",
+    "type": ["Normal", "Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+    "description": "Un castor fort qui construit des barrages.",
+    "generation": 4
+  },
+  {
+    "id": 401,
+    "name": "Crikzik",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
+    "description": "Un petit insecte qui émet des sons pour communiquer.",
+    "generation": 4
+  },
+  {
+    "id": 402,
+    "name": "Mélokrik",
+    "type": ["Insecte", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "description": "Un insecte fort qui utilise ses bras puissants.",
+    "generation": 4
+  },
+  {
+    "id": 403,
+    "name": "Lixy",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+    "description": "Un petit Pokémon électrique vif et joueur.",
+    "generation": 4
+  },
+  {
+    "id": 404,
+    "name": "Luxio",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "description": "L’évolution de Lixy, plus puissant et rapide.",
+    "generation": 4
+  },
+  {
+    "id": 405,
+    "name": "Luxray",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+    "description": "Un félin électrique au regard perçant.",
+    "generation": 4
+  },
+  {
+    "id": 406,
+    "name": "Rozbouton",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "description": "Un petit Pokémon plante timide.",
+    "generation": 4
+  },
+  {
+    "id": 407,
+    "name": "Rosélia",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "description": "Un Pokémon plante avec des fleurs toxiques.",
+    "generation": 4
+  },
+  {
+    "id": 408,
+    "name": "Roserade",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+    "description": "Une évolution élégante et puissante de Rosélia.",
+    "generation": 4
+  },
+  {
+    "id": 409,
+    "name": "Kranidos",
+    "type": ["Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "description": "Un Pokémon fossile au crâne dur comme la pierre.",
+    "generation": 4
+  },
+  {
+    "id": 410,
+    "name": "Charkos",
+    "type": ["Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "description": "L’évolution de Kranidos, très puissant.",
+    "generation": 4
+  },
+  {
+    "id": 411,
+    "name": "Dinoclier",
+    "type": ["Roche", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "description": "Un Pokémon fossile avec une armure de métal.",
+    "generation": 4
+  },
+  {
+    "id": 412,
+    "name": "Bastiodon",
+    "type": ["Roche", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+    "description": "Un Pokémon fort et défensif avec une carapace solide.",
+    "generation": 4
+  },
+  {
+    "id": 413,
+    "name": "Cheniti",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+    "description": "Un petit insecte coloré qui évolue rapidement.",
+    "generation": 4
+  },
+  {
+    "id": 414,
+    "name": "Cheniselle",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "description": "L’évolution de Cheniti, plus rapide et agile.",
+    "generation": 4
+  },
+  {
+    "id": 415,
+    "name": "Papilord",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+    "description": "Un papillon coloré avec de grandes ailes.",
+    "generation": 4
+  },
+  {
+    "id": 416,
+    "name": "Apitrini",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+    "description": "Un petit Pokémon abeille actif et rapide.",
+    "generation": 4
+  },
+  {
+    "id": 417,
+    "name": "Apireine",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+    "description": "Une reine abeille puissante et protectrice.",
+    "generation": 4
+  },
+  {
+    "id": 418,
+    "name": "Pachirisu",
+    "type": ["Électrik"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+    "description": "Un petit écureuil électrique très énergique.",
+    "generation": 4
+  },
+  {
+    "id": 419,
+    "name": "Mustébouée",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+    "description": "Un petit Pokémon poisson d’eau douce.",
+    "generation": 4
+  },
+  {
+    "id": 420,
+    "name": "Mustéflott",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+    "description": "L’évolution de Mustébouée, plus rapide et fort.",
+    "generation": 4
+  },
+  {
+    "id": 421,
+    "name": "Ceribou",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png",
+    "description": "Un petit Pokémon plante mignon et curieux.",
+    "generation": 4
+  },
+  {
+    "id": 422,
+    "name": "Ceriflor",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "description": "Une belle fleur colorée et élégante.",
+    "generation": 4
+  },
+  {
+    "id": 423,
+    "name": "Sancoki",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "description": "Un Pokémon crabe vif et rapide.",
+    "generation": 4
+  },
+  {
+    "id": 424,
+    "name": "Tritosor",
+    "type": ["Eau", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "description": "Un puissant crabe de mer capable de creuser.",
+    "generation": 4
+  },
+  {
+    "id": 425,
+    "name": "Capidextre",
+    "type": ["Insecte", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "description": "Un Pokémon insecte habile avec des ailes rapides.",
+    "generation": 4
+  },
+  {
+    "id": 426,
+    "name": "Baudrive",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "description": "Un oiseau rapide et malin.",
+    "generation": 4
+  },
+  {
+    "id": 427,
+    "name": "Grodrive",
+    "type": ["Normal", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "description": "L’évolution de Baudrive, très agile en vol.",
+    "generation": 4
+  },
+  {
+    "id": 428,
+    "name": "Laporeille",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+    "description": "Un lapin doux et rapide.",
+    "generation": 4
+  },
+  {
+    "id": 429,
+    "name": "Lockpin",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "description": "L’évolution de Laporeille, plus puissant.",
+    "generation": 4
+  },
+  {
+    "id": 430,
+    "name": "Magirêve",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "description": "Un Pokémon mystique avec des pouvoirs psychiques.",
+    "generation": 4
+  },
+  {
+    "id": 431,
+    "name": "Corboss",
+    "type": ["Ténèbres", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+    "description": "Un corbeau rusé et puissant.",
+    "generation": 4
+  },
+  {
+    "id": 432,
+    "name": "Chaglam",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+    "description": "Un combattant rapide et agile.",
+    "generation": 4
+  },
+  {
+    "id": 433,
+    "name": "Chaffreux",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+    "description": "L’évolution de Chaglam, très fort et agile.",
+    "generation": 4
+  },
+  {
+    "id": 434,
+    "name": "Korillon",
+    "type": ["Plante", "Spectre"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "description": "Un Pokémon mystérieux à l’allure fantomatique.",
+    "generation": 4
+  },
+  {
+    "id": 435,
+    "name": "Moufouette",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+    "description": "Une moufette rusée avec une défense odorante.",
+    "generation": 4
+  },
+  {
+    "id": 436,
+    "name": "Moufflair",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "description": "L’évolution de Moufouette, encore plus rusée et forte.",
+    "generation": 4
+  },
+  {
+    "id": 437,
+    "name": "Archeomire",
+    "type": ["Roche", "Spectre"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "description": "Un Pokémon fossile de type Spectre mystérieux.",
+    "generation": 4
+  },
+  {
+    "id": 438,
+    "name": "Archeodong",
+    "type": ["Roche", "Spectre"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "description": "L’évolution d’Archeomire, plus puissant et agile.",
+    "generation": 4
+  },
+  {
+    "id": 439,
+    "name": "Manzai",
+    "type": ["Insecte", "Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+    "description": "Un insecte avec des pouvoirs psychiques étranges.",
+    "generation": 4
+  },
+  {
+    "id": 440,
+    "name": "Mime Jr.",
+    "type": ["Psy", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+    "description": "Un petit mime joueur et facétieux.",
+    "generation": 4
+  },
+  {
+    "id": 441,
+    "name": "Ptiravi",
+    "type": ["Normal", "Fée"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+    "description": "Un bébé Pokémon plein de charme.",
+    "generation": 4
+  },
+  {
+    "id": 442,
+    "name": "Spiritomb",
+    "type": ["Spectre", "Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "description": "Un Pokémon spectral mystérieux enfermé dans une pierre.",
+    "generation": 4
+  },
+  {
+    "id": 443,
+    "name": "Griknot",
+    "type": ["Dragon", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "description": "Un jeune dragon fort et agressif.",
+    "generation": 4
+  },
+  {
+    "id": 444,
+    "name": "Carmache",
+    "type": ["Dragon", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "description": "L’évolution de Griknot, puissant et résistant.",
+    "generation": 4
+  },
+  {
+    "id": 445,
+    "name": "Carchacrok",
+    "type": ["Dragon", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "description": "Un redoutable dragon aux grandes mâchoires.",
+    "generation": 4
+  },
+  {
+    "id": 446,
+    "name": "Goinfrex",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+    "description": "Un Pokémon gourmand et paresseux.",
+    "generation": 4
+  },
+  {
+    "id": 447,
+    "name": "Riolu",
+    "type": ["Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "description": "Un Pokémon jeune et énergique qui peut ressentir l’aura.",
+    "generation": 4
+  },
+  {
+    "id": 448,
+    "name": "Lucario",
+    "type": ["Combat", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "description": "Un combattant légendaire capable de maîtriser l’aura.",
+    "generation": 4
+  },
+  {
+    "id": 449,
+    "name": "Hippopotas",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "description": "Un petit Pokémon hippopotame qui creuse dans le sable.",
+    "generation": 4
+  },
+  {
+    "id": 450,
+    "name": "Hippodocus",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "description": "L’évolution puissante d’Hippopotas.",
+    "generation": 4
+  },
+  {
+    "id": 451,
+    "name": "Rapion",
+    "type": ["Poison", "Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+    "description": "Un scorpion redoutable et dangereux.",
+    "generation": 4
+  },
+  {
+    "id": 452,
+    "name": "Drascore",
+    "type": ["Poison", "Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+    "description": "L’évolution puissante de Rapion.",
+    "generation": 4
+  },
+  {
+    "id": 453,
+    "name": "Cradopaud",
+    "type": ["Poison", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "description": "Un crapaud toxique et combatif.",
+    "generation": 4
+  },
+  {
+    "id": 454,
+    "name": "Coatox",
+    "type": ["Poison", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+    "description": "L’évolution agressive de Cradopaud.",
+    "generation": 4
+  },
+  {
+    "id": 455,
+    "name": "Vortente",
+    "type": ["Combat", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+    "description": "Un Pokémon oiseau rapide et fort.",
+    "generation": 4
+  },
+  {
+    "id": 456,
+    "name": "Écayon",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+    "description": "Un petit poisson vif et agile.",
+    "generation": 4
+  },
+  {
+    "id": 457,
+    "name": "Lumineon",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+    "description": "Un poisson élégant et lumineux.",
+    "generation": 4
+  },
+  {
+    "id": 458,
+    "name": "Phyllali",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "description": "Une évolution d’Évoli avec un lien fort à la nature.",
+    "generation": 4
+  },
+  {
+    "id": 459,
+    "name": "Givrali",
+    "type": ["Glace"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+    "description": "Une évolution d’Évoli spécialisée dans la glace.",
+    "generation": 4
+  },
+  {
+    "id": 460,
+    "name": "Scorvol",
+    "type": ["Poison", "Vol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "description": "Un scorpion volant venimeux et rapide.",
+    "generation": 4
+  },
+  {
+    "id": 461,
+    "name": "Mammochon",
+    "type": ["Glace", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "description": "Un mammouth préhistorique robuste et puissant.",
+    "generation": 4
+  },
+  {
+    "id": 462,
+    "name": "Porygon-Z",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "description": "Une version avancée et instable de Porygon.",
+    "generation": 4
+  },
+  {
+    "id": 463,
+    "name": "Galekid",
+    "type": ["Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "description": "Un jeune Pokémon blindé très robuste.",
+    "generation": 4
+  },
+  {
+    "id": 464,
+    "name": "Galerie",
+    "type": ["Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "description": "L’évolution de Galekid, très résistant.",
+    "generation": 4
+  },
+  {
+    "id": 465,
+    "name": "Galeking",
+    "type": ["Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+    "description": "L’évolution finale, un colosse blindé.",
+    "generation": 4
+  },
+  {
+    "id": 466,
+    "name": "Méga-Légumes",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "description": "Un Pokémon plante toxique et puissant.",
+    "generation": 4
+  },
+  {
+    "id": 467,
+    "name": "Toxicroak",
+    "type": ["Poison", "Combat"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+    "description": "Un crapaud toxique et combatif très agressif.",
+    "generation": 4
+  },
+  {
+    "id": 468,
+    "name": "Carabing",
+    "type": ["Insecte"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "description": "Un petit insecte dur et rapide.",
+    "generation": 4
+  },
+  {
+    "id": 469,
+    "name": "Lançargot",
+    "type": ["Insecte", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+    "description": "Un Pokémon insecte blindé avec une forte carapace.",
+    "generation": 4
+  },
+  {
+    "id": 470,
+    "name": "Trompignon",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "description": "Un petit champignon venimeux et malicieux.",
+    "generation": 4
+  },
+  {
+    "id": 471,
+    "name": "Gaulet",
+    "type": ["Plante", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "description": "L’évolution de Trompignon, avec des spores toxiques plus puissantes.",
+    "generation": 4
+  },
+  {
+    "id": 472,
+    "name": "Viskuse",
+    "type": ["Insecte", "Spectre"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "description": "Un insecte spectral avec une aura mystérieuse.",
+    "generation": 4
+  },
+  {
+    "id": 473,
+    "name": "Moyade",
+    "type": ["Insecte", "Spectre"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "description": "L’évolution de Viskuse, encore plus furtif et dangereux.",
+    "generation": 4
+  },
+  {
+    "id": 474,
+    "name": "Volcaropod",
+    "type": ["Feu", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
+    "description": "Un petit volcan ambulant, au corps de lave et de pierre.",
+    "generation": 4
+  },
+  {
+    "id": 475,
+    "name": "Laviaon",
+    "type": ["Feu", "Roche"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "description": "L’évolution majestueuse de Volcaropod, puissant et ardent.",
+    "generation": 4
+  },
+  {
+    "id": 476,
+    "name": "Rhinastoc",
+    "type": ["Roche", "Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+    "description": "Un rhinocéros solide avec une corne de pierre.",
+    "generation": 4
+  },
+  {
+    "id": 477,
+    "name": "Bouldeneu",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "description": "Un arbre vivant protecteur de la forêt.",
+    "generation": 4
+  },
+  {
+    "id": 478,
+    "name": "Tournicoton",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "description": "Un petit Pokémon en coton doux et léger.",
+    "generation": 4
+  },
+  {
+    "id": 479,
+    "name": "Blancoton",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "description": "L’évolution de Tournicoton, plus grand et plus doux.",
+    "generation": 4
+  },
+  {
+    "id": 480,
+    "name": "Mysdibule",
+    "type": ["Insecte", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+    "description": "Un Pokémon ciseau puissant et robuste.",
+    "generation": 4
+  },
+  {
+    "id": 481,
+    "name": "Galopa",
+    "type": ["Feu"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+    "description": "Un cheval enflammé, rapide et élégant.",
+    "generation": 4
+  },
+  {
+    "id": 482,
+    "name": "Phanpy",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
+    "description": "Un petit éléphant joueur et sympathique.",
+    "generation": 4
+  },
+  {
+    "id": 483,
+    "name": "Donphan",
+    "type": ["Sol"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "description": "Un éléphant blindé qui écrase ses ennemis avec puissance.",
+    "generation": 4
+  },
+  {
+    "id": 484,
+    "name": "Porygon-Z",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+    "description": "Une version instable et avancée de Porygon.",
+    "generation": 4
+  },
+  {
+    "id": 485,
+    "name": "Cerbyllin",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "description": "Un Pokémon légendaire psychique aux pouvoirs mystérieux.",
+    "generation": 4
+  },
+  {
+    "id": 486,
+    "name": "Heatran",
+    "type": ["Feu", "Acier"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "description": "Un Pokémon légendaire de feu et d’acier, maître de la lave.",
+    "generation": 4
+  },
+  {
+    "id": 487,
+    "name": "Regigigas",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "description": "Un colosse légendaire capable de diriger les autres golems.",
+    "generation": 4
+  },
+  {
+    "id": 488,
+    "name": "Giratina",
+    "type": ["Spectre", "Dragon"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+    "description": "Un dragon légendaire venant d’un autre monde.",
+    "generation": 4
+  },
+  {
+    "id": 489,
+    "name": "Cresselia",
+    "type": ["Psy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
+    "description": "Un Pokémon légendaire qui apporte la lune et les rêves.",
+    "generation": 4
+  },
+  {
+    "id": 490,
+    "name": "Phione",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+    "description": "Un Pokémon aquatique mystérieux et rare.",
+    "generation": 4
+  },
+  {
+    "id": 491,
+    "name": "Manaphy",
+    "type": ["Eau"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "description": "Un Pokémon légendaire capable de contrôler l’eau.",
+    "generation": 4
+  },
+  {
+    "id": 492,
+    "name": "Darkrai",
+    "type": ["Ténèbres"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+    "description": "Un Pokémon légendaire qui contrôle les cauchemars.",
+    "generation": 4
+  },
+  {
+    "id": 493,
+    "name": "Shaymin",
+    "type": ["Plante"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "description": "Un Pokémon légendaire qui incarne la gratitude et la nature.",
+    "generation": 4
+  },
+  {
+    "id": 494,
+    "name": "Arceus",
+    "type": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "description": "Le Pokémon créateur, considéré comme l’origine de tout.",
+    "generation": 4
   }
 ]
-

@@ -12,13 +12,16 @@ $parts = explode('/', $url);
 
 switch ($parts[0]) {
     case 'home':
-        require_once __DIR__ . '/pokedex/controllers/HomeController.php';
         $controller = new HomeController();
-        $controller->index();
+        if (isset($parts[1])) {
+            $controller->genIndex($parts[1]);
+        } else {
+            $controller->index();
+        }
+        break;
 
     case 'details':
         if (isset($parts[1])) {
-            require_once __DIR__ . '/pokedex/controllers/DetailsController.php';
             $controller = new DetailsController();
             $controller->show($parts[1]);
         } else {
@@ -26,10 +29,8 @@ switch ($parts[0]) {
         }
         break;
 
-        
-    default:
-    echo "Page non trouvée (404)";
-    break;
-}
 
-?>
+    default:
+        echo "Page non trouvée (404)";
+        break;
+}

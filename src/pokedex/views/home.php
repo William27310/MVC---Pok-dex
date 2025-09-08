@@ -55,7 +55,7 @@
     <div class="container">
         <div class="row justify-content-around gap-5 mt-5 mb-5">
             <?php foreach ($touslesPokemons as $pokemon) { ?>
-                <div class="card text-white row" style="max-width: 18rem;">
+                <div class="card text-white row" style="max-width: 20rem;">
                     <img src="<?= $pokemon['image'] ?>" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text mt-5"><span class="fw-bold">Nom : </span><?= $pokemon['name'] ?></p>

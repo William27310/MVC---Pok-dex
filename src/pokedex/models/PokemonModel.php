@@ -10,8 +10,23 @@ class PokemonModel
         return $allPokemon;
     }
 
-    public function getByid()
+    /**
+     * Méthode permettant de récupérer toutes les infos d'un pokémon selon son id
+     * 
+     * @param $id Id du pokémon à rechercher
+     * @return array tableau contenant toutes les infos
+     */
+    public function getByid($id)
     {
-        return "pokemon 25, pikachu";
+        // nous allons récupérer le json à l'aide de file_get_contents
+        $pokedex = file_get_contents(__DIR__ . '/../data/pokemons.json');
+        // nous allons créer un tableau associatif $allPokemon à l'aide de json_decode
+        $allPokemon = json_decode($pokedex, true);
+        // nous parcourons le tableau à l'aide d'un foreach et si nous trouvons l'id correspondant, nous retournons les infos
+        foreach ($allPokemon as $pokemon) {
+            if ($pokemon['id'] == $id) {
+                return $pokemon;
+            }
+        }
     }
 }

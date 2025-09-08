@@ -1,6 +1,8 @@
 <?php
 
-require_once __DIR__ . '/../models/PokemonModel.php';
+namespace Controllers;
+
+use Models\PokemonModel;
 
 class HomeController
 {

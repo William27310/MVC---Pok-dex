@@ -24,7 +24,7 @@
             <ul class="navbar-nav">
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle fw-bold text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Dropdown link
+                        Types
                     </a>
                     <ul class="dropdown-menu bg-dark">
                         <li><a class="dropdown-item text-white fw-bold" href="#">Action</a></li>

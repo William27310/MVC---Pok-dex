@@ -1,7 +1,7 @@
 <?php
 
-use Controllers\HomeController;
-use Controllers\DetailsController;
+use App\Controllers\HomeController;
+use App\Controllers\DetailsController;
 
 // Recherche de paramètre ($_GET)
 // ?? 'home' si pas présente, tu lui donne la valeur home

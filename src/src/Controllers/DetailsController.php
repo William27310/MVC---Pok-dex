@@ -1,8 +1,8 @@
 <?php
 
-namespace Controllers;
+namespace App\Controllers;
 
-use Models\PokemonModel;
+use App\Models\PokemonModel;
 
 class DetailsController
 {

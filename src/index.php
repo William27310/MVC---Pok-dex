@@ -1,11 +1,11 @@
 <?php
 
-require_once __DIR__.'/autoload.php';
-require_once __DIR__.'/router.php';
+require_once 'vendor/autoload.php';
+require_once 'router.php';
 
 // require_once __DIR__ . '/router.php';
 
-// require_once __DIR__ . "/pokedex/models/PokemonModel.php"; 
+// require_once __DIR__ . "/pokedex/Models/PokemonModel.php"; 
 
 // $model = new PokemonModel();
 // $result = $model->getByid();
